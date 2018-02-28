@@ -8,7 +8,8 @@ including lambdas (jvm only)
 Forked from [clostache](https://github.com/fhd/clostache) and updated to be compatible with ClojureScript.
 
 [![Build Status](https://travis-ci.org/fotoetienne/cljstache.svg?branch=master)](https://travis-ci.org/fotoetienne/cljstache)
-[![Clojars Project](https://img.shields.io/clojars/v/cljstache.svg)](https://clojars.org/cljstache)
+[![Clojars Project](https://img.shields.io/clojars/v/ayato_p/cljstache.svg)](https://clojars.org/ayato_p/cljstache)
+
 
 Usage
 -----
